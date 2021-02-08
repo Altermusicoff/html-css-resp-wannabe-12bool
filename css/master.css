@@ -1,0 +1,21 @@
+/* debug */
+
+.container-fluid {
+  background-color: #f9f9f9;;
+  height: auto;
+}
+
+.container{
+  text-align: center;
+  margin: 0 auto;
+}
+
+#circled img{
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px;
+}
+
+img {
+  height: 200px;
+}
